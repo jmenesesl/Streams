@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CopyBytes/src"/>
+	<classpathentry kind="src" path="CopyCharacters/src"/>
+	<classpathentry kind="src" path="CopyCharactersBuffered/src"/>
+	<classpathentry kind="src" path="CopyLines/src"/>
+	<classpathentry kind="src" path="DataStreams/src"/>
+	<classpathentry kind="src" path="ObjectStreams/src"/>
+	<classpathentry kind="src" path="Password/src"/>
+	<classpathentry kind="src" path="Root/src"/>
+	<classpathentry kind="src" path="Root2/src"/>
+	<classpathentry kind="src" path="ScanSum/src"/>
+	<classpathentry kind="src" path="ScanXan/src"/>
+	<classpathentry kind="output" path="CopyBytes/build/classes"/>
+</classpath>
